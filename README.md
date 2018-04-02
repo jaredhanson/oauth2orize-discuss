@@ -12,3 +12,9 @@ answers.
 #### Subscribing to Discuss
 
 Subscribe to this forum by watching this repository.
+
+
+### Other Discussion Forums
+
+Discussions related to OAuth2orize also occur at the following venues:
+- [StackOverflow](https://stackoverflow.com/questions/tagged/oauth2orize)
